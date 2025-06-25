@@ -1,4 +1,4 @@
-# -AI-Trading-Bot
+# AI-Trading-Bot
 - What MCP servers are and why they matter
   
 - How multiple AI agents like Claude can work together in real time
